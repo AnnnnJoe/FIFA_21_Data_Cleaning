@@ -4,4 +4,4 @@
 ## About dataset:
 ### The dataset utilized for this task is the FIFA 21 dataset, sourced from Kaggle. This dataset was acquired in its original form through web scraping from sofifa.com, encompassing comprehensive information about football players and their performance, up to the year 2021. Notably, the FIFA 21 dataset comprises 18,979 rows and 77 columns.
 ## Tool used:
-### I used Python on Jupyter Notebook to clean the dataset and transformed it for data analysis. 
+### I used Python on Jupyter Notebook to clean and transform the data for analysis. 
