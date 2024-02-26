@@ -21,5 +21,5 @@
       - Handled missing values in 'Loan End Date' column by replacing with 'No Loan'.
       - Dropped 'photoUrl' and 'playerUrl' columns to streamline data for analysis.
       - Enhanced readability by renaming columns.
-3. **Exproting Data:**
+3. **Exporting Data:**
       - Exported cleaned dataset to Excel format for further analysis and visualization.
